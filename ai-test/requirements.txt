@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+# Optional for API and deep learning
+flask
+fastapi
+uvicorn
+tensorflow
+torch 

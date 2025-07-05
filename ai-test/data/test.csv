@@ -1,0 +1,5 @@
+customer_id,age,gender,tenure,monthly_charges,total_charges,contract_type,payment_method,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,paperless_billing,churn
+17.0,27.0,0,52.0,99.35,5197.25,1,0,0,1,1,1,1,0,0,0,0.0
+5.0,31.0,0,2.0,70.7,151.65,0,0,0,0,0,0,0,0,0,1,1.0
+13.0,50.0,0,58.0,100.35,5682.1,1,0,0,1,1,1,1,0,0,0,0.0
+9.0,0.0,0,28.0,104.8,3046.05,1,0,0,1,1,1,1,0,0,0,0.0
