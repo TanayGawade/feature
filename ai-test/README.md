@@ -15,13 +15,9 @@ This project builds an end-to-end AI solution to predict customer churn using ma
    ```bash
    pip install -r requirements.txt
    ```
-3. (Optional) Start Jupyter:
-   ```bash
-   jupyter notebook
-   ```
 
 ## How to Run
-- See notebooks in `notebooks/` for step-by-step workflow.
+- Run the the file 'workflow.py'
 - Scripts in `src/` can be run for modular processing and training.
 
 ## Approach & Design Decisions
